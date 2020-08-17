@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="164176" started-at="2020-08-17T04:24:04Z" finished-at="2020-08-17T04:26:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="164176" started-at="2020-08-17T04:24:04Z" finished-at="2020-08-17T04:26:48Z">
+      <class name="learning.hybrid.testrunner.TestRunner">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:learning.hybrid.testrunner.TestRunner@175c2241]" name="beforeTest" is-config="true" duration-ms="23892" started-at="2020-08-17T04:24:04Z" finished-at="2020-08-17T04:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:learning.hybrid.testrunner.TestRunner@175c2241]" name="TC01" duration-ms="27343" started-at="2020-08-17T04:24:28Z" finished-at="2020-08-17T04:24:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="selectCourse()[pri:1, instance:learning.hybrid.testrunner.TestRunner@175c2241]" name="selectCourse" duration-ms="29007" started-at="2020-08-17T04:24:55Z" finished-at="2020-08-17T04:25:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCourse -->
+        <test-method status="PASS" signature="selectLanguage()[pri:2, instance:learning.hybrid.testrunner.TestRunner@175c2241]" name="selectLanguage" duration-ms="28808" started-at="2020-08-17T04:25:24Z" finished-at="2020-08-17T04:25:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectLanguage -->
+        <test-method status="PASS" signature="courseWalkThrough()[pri:3, instance:learning.hybrid.testrunner.TestRunner@175c2241]" name="courseWalkThrough" duration-ms="48567" started-at="2020-08-17T04:25:53Z" finished-at="2020-08-17T04:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- courseWalkThrough -->
+        <test-method status="PASS" signature="signOut()[pri:4, instance:learning.hybrid.testrunner.TestRunner@175c2241]" name="signOut" duration-ms="6490" started-at="2020-08-17T04:26:42Z" finished-at="2020-08-17T04:26:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:learning.hybrid.testrunner.TestRunner@175c2241]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-08-17T04:26:48Z" finished-at="2020-08-17T04:26:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- learning.hybrid.testrunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
